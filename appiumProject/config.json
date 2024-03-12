@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "emulator-5554",
+  "appium:platformVersion": "11.0",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.claudivan.taskagenda",
+  "appium:appActivity": ".Activities.MainActivity"
+}
