@@ -70,4 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project is inspired by the everyday challenges of quality assurance professionals.
 
 Happy Testing!
-```
